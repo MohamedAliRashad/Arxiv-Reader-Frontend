@@ -1,12 +1,12 @@
-# arxiv_reader
+# Arxiv Reader Frontend
 
-A new Flutter project.
+Based on Flutter for cross platform support.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This layout is a starting point for the application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to help with the project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
